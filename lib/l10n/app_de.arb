@@ -1,0 +1,8 @@
+{
+  "@@locale": "de",
+
+  "helloWorld": "Hallo Welt",
+  "attack_headline": "Angriff",
+  "attack_description": "Führe einen Nah- oder Fernkampfangriff mit deiner Waffe aus. Bestimmte Features, wie das Extra-Angriffs Feature des Kämpfers, ermöglichen es dir, mit dieser Aktion mehr als einen Angriff auszuführen. Jeder dieser Angriffe ist ein separater Wurf und kann auf verschiedene Kreaturen abzielen. Du kannst dich zwischen diesen Angriffen bewegen. Wenn du mit einer leichten Nahkampfwaffe angreifst, kannst du deine Bonusaktion verwenden, um mit der anderen Hand anzugreifen (siehe Bonusaktion „Offhand-Angriff“). Du kannst einen deiner Nahkampfangriffe durch einen Grapple oder einen Shove ersetzen. Einige Bedingungen verschaffen dem Angriff Vorteile: Angriffe gegen geblendete, gelähmte, versteinerte, gefesselt, betäubte oder bewusstlose Ziele; Nahkampfangriffe gegen anfällige Ziele; Angriffe durch unsichtbare oder versteckte Angreifer. Einige Bedingungen geben dem Angriff einen Nachteil: Angriffe auf unsichtbare oder versteckte Ziele; Fernangriffe gegen anfällige Ziele; Angriffe von geblendeten, verängstigten, vergifteten oder gefesselten Angreifern.",
+  "app_b_conditions": "Umweltbedingungen"
+}

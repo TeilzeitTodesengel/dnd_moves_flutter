@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+  "attack_headline": "Attack",
+  "@attack_headline": {
+    "description": "It's the attack headline"
+  },
+
+  "attack_description": "Perform a melee or ranged attack with your weapon Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks. When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the Offhand attack bonus action). You may replace one of your melee attacks with a Grapple or a Shove. Some conditions give advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers. Some conditions give disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers.",
+  "@attack_description": {
+    "description": "It's the attack description"
+  },
+
+  "app_b_conditions": "Conditions",
+  "@app_b_conditions": {
+    "description": "Appbar Conditions"
+  }
+}
