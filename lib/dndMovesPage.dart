@@ -22,7 +22,6 @@ class DnDMove extends State<DnDMovesPage> {
   @override
   Widget build(BuildContext context) {
 
-
     return Scaffold(
       appBar: AppBar(
         title: Text(AppLocalizations.of(context)!.helloWorld),
@@ -30,14 +29,14 @@ class DnDMove extends State<DnDMovesPage> {
       body: _getBodyItem(_selectedIndex, context),
 
       bottomNavigationBar: BottomNavigationBar(
-        items: const <BottomNavigationBarItem>[
+        items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(Icons.pending_actions),
-            label: 'Aktionen',
+            label: AppLocalizations.of(context)!.app_b_actions,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.wallpaper),
-            label: 'Conditions',
+            label: AppLocalizations.of(context)!.app_b_conditions,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.school),
@@ -66,6 +65,3 @@ class DnDMove extends State<DnDMovesPage> {
     }
   }
 }
-
-
-

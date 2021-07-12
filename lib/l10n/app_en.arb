@@ -19,5 +19,10 @@
   "app_b_conditions": "Conditions",
   "@app_b_conditions": {
     "description": "Appbar Conditions"
+  },
+
+  "app_b_actions": "Actions",
+  "@app_b_actions": {
+    "description": "Appbar Actions"
   }
 }
